@@ -14,7 +14,6 @@ function calcularIMC() {
     let alturaObj = document.querySelector('#altura');
     let altura = alturaObj.value;
     let imc = peso / (altura * altura);
-    console.log(imc.toFixed(1));
     let meuIMC =  checkClassificacaoIMC(imc.toFixed(1));
     let ret = [
         {
