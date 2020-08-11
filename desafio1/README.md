@@ -21,6 +21,8 @@
     - Arrays e manipulações com métodos filter, join, etc;
     - Interação com a DOM através de seletores.
 
+### :information_source: Resultados
+
 ![Resultado deste desafio](../assets/img/desafio1.1-result.png)
 
 ## :heavy_check_mark: Cálculo de aposentadoria
@@ -45,7 +47,23 @@
     - Condicionais ternárias;
     - Interação com a DOM através de seletores.
 
-### Resultados
+### :information_source: Resultados
 
+#### Para o sexo feminino
 ![Para o sexo feminino](../assets/img/aposentadoria-f.png)
+
+#### Para o sexo masculino
 ![Para o sexo masculino](../assets/img/aposentadoria-m.png)
+
+#### Quando há erros de preenchimento
+![Quando há erros de preenchimento](../assets/img/aposentadoria-erros-preenchimento.png)
+
+#### Quando o tempo de contribuição é maior que a idade
+![Contribuição é maior que a idade](../assets/img/aposentadoria-cont-maior-idd.png)
+
+#### Quando a idade de início de contribuição é menor que a idade mínima exigida pelo governo brasileiro (16 anos)
+![Idade de início de contribuição é menor que a idade mínima exigida](../assets/img/aposentadoria-idd-minima-errada.png)
+
+---
+
+Feito com :heart: by [Rafa Marquini](https://linkedin.com/in/rafamardegan)
