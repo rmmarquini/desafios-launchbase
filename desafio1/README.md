@@ -1,6 +1,6 @@
 # Desafio 1
 
-## Cálculo do IMC
+## :heavy_check_mark: Cálculo do IMC
 
 * [Link do projeto](/calculo-imc)
 
