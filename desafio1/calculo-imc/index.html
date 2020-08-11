@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <header>
+        <h2>Desafio 1.1 - Primeiros passos com JS</h2>
+    </header>
+
+    <main>
+        <div class="form">
+            <h3>Calcule seu IMC:</h3>
+            <form action="/">
+                <fieldset>
+                    <fieldset class="grupo col-1">
+                        <div class="campo">
+                            <label for="nome">Nome:</label>
+                            <input type="text" name="nome" id="nome" placeholder="Insira seu nome">
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="grupo">
+                        <div class="campo">
+                            <label for="peso">Peso:</label>
+                            <input type="text" name="peos" id="peso" placeholder="Informe seu peso">
+                        </div>
+                        <div class="campo">
+                            <label for="altura">Altura:</label>
+                            <input type="text" name="altura" id="altura" placeholder="Informe sua altura">
+                        </div>
+                    </fieldset>
+
+                    <div class="btn">
+                        <button type="button" class="btn-calcular">Calcular</button>
+                    </div>
+                </fieldset>
+            </form>
+            <div class="retorno"></div>
+        </div>
+    </main>
+
+    <footer>
+        <div>Rocketseat - LaunchBase Bootcamp</div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src='main.js'></script>
+</body>
+</html>
