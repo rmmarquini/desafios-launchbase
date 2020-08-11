@@ -20,18 +20,13 @@
 
 </p>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 ## :rocket: Sumário de desafios
 
-1. Alinhamento de conhecimento
-    1.1. Primeiros passos com JS
-    1.2. Lidando com objetos e vetores
-    1.3. Funções e estruturas de repetição
-    1.4. Aplicação: Operações bancárias
+### Desafio 1: Alinhamento de conhecimento
+1. Primeiros passos com JS
+2. Lidando com objetos e vetores
+3. Funções e estruturas de repetição
+4. Aplicação: Operações bancárias
 
 ## :memo: Licença
 
