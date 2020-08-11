@@ -2,7 +2,7 @@
 
 ## Cálculo do IMC
 
-* ![Link do projeto](/calculo-imc)
+* [Link do projeto](/calculo-imc)
 
 ### :hammer: Ferramentas e práticas
 * HTML
