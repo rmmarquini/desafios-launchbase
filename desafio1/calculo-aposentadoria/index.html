@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Cálculo de Aposentadoria</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <header>
+        <h2>Desafio 1.2 - Primeiros passos com JS</h2>
+    </header>
+
+    <main>
+        <div class="form">
+            <h3>Calcule sua aposentadoria:</h3>
+            <form action="/">
+                <fieldset>
+                    <fieldset class="grupo col-1">
+                        <div class="campo">
+                            <label for="nome">Nome:</label>
+                            <input type="text" name="nome" id="nome" placeholder="Insira seu nome">
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="grupo">
+                        <div class="campo">
+                            <label for="sexo">Sexo:</label>
+                            <select name="sexo" id="sexo">
+                                <option value="">Selecione...</option>
+                                <option value="F">F</option>
+                                <option value="M">M</option>
+                            </select>
+                        </div>
+                        <div class="campo">
+                            <label for="idade">Idade:</label>
+                            <input type="text" name="idade" id="idade" placeholder="Informe sua idade">
+                        </div>
+                        <div class="campo">
+                            <label for="contribuicao">Contribuição:</label>
+                            <input type="text" name="contribuicao" id="contribuicao" placeholder="Informe os anos de contribuição">
+                        </div>
+                    </fieldset>
+
+                    <div class="btn">
+                        <button type="button" class="btn-calcular">Calcular</button>
+                    </div>
+                </fieldset>
+            </form>
+            <div class="retorno"></div>
+        </div>
+    </main>
+
+    <footer>
+        <div>Rocketseat - LaunchBase Bootcamp</div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src='main.js'></script>
+</body>
+</html>
