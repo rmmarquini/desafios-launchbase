@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
-@import url('../public/css/normalize.css');
+@import url('../../public/css/normalize.css');
 
 body, html {background: #f4f4f4 !important;}
 

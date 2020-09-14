@@ -20,8 +20,8 @@
 ## :rocket: Sumário de desafios
 
 ### Desafio 1: Alinhamento de conhecimento
-1. [Primeiros passos com JS](/desafio1)
-2. Lidando com objetos e vetores
+1. [Primeiros passos com JS](/desafio1/primeiros-passos-com-js/)
+2. [Lidando com objetos e vetores](/desafio1/lidando-com-objetos-e-vetores)
 3. Funções e estruturas de repetição
 4. Aplicação: Operações bancárias
 
