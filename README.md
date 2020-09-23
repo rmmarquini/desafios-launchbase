@@ -23,7 +23,7 @@
 1. [Primeiros passos com JS](/desafio1/primeiros-passos-com-js/)
 2. [Lidando com objetos e vetores](/desafio1/lidando-com-objetos-e-vetores)
 3. [Funções e estruturas de repetição](/desafio1/funcoes-estruturas-repeticao)
-4. Aplicação: Operações bancárias
+4. [Aplicação: Operações bancárias](/desafio1/operacoes-bancarias)
 
 ## :memo: Licença
 
