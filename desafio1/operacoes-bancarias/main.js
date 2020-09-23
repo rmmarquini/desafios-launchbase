@@ -64,12 +64,10 @@ function getHigherTransactionByType(transactionType) {
 
 function getAverageTransactionValue() {
     let amountAverage = 0;
-    let numberOfTransactions = 0;
     for (transaction of userTransactions) {
         amountAverage += transaction.value;
-        numberOfTransactions++;
     }
-    return amountAverage / numberOfTransactions;
+    return amountAverage / userTransactions.length;
 }
 
 const getTransactionsCount = () => {
