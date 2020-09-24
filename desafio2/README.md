@@ -12,6 +12,7 @@ Neste módulo do Bootcamp Launchbase realizei uma reciclagem de conceitos de fro
 ### :heavy_check_mark: Desafio 2.2
 * [Link do desafio 2.2](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
+> Aproveitando a estrutura anterior e reforçando os conceitos de responsividade com flexbox, apliquei os requisitos determinados na atividade, descritos no link do desafio 2.2.
 
 ---
 
