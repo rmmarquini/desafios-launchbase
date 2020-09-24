@@ -25,10 +25,13 @@
 3. [Funções e estruturas de repetição](/desafio1/funcoes-estruturas-repeticao)
 4. [Aplicação: Operações bancárias](/desafio1/operacoes-bancarias)
 
+### Desafio 2: Front-end
+1. [Desafio 2](/desafio2)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com :heart: by [Rafa Marquini](https://linkedin.com/in/rafamardegan)
+Feito com :coffee: by [Rafa Marquini](https://linkedin.com/in/rafamardegan)
